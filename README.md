@@ -4,7 +4,7 @@
 - Simple tabs with birthdays.
 - The application can be tested from the [link](https://s1een.github.io/react-birthday-app/ "link").
 
-# React Menu App
+# React Birthday App
 
 ![](https://miro.medium.com/max/1000/0*aHvK7Rbt_Dv74mWq.png)
 
